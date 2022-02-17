@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HarshP6421
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C
 - 📫 How to reach me Linkedin:https://www.linkedin.com/in/harsh-pandey-501903223
                      Instagram:https://www.instagram.com/harshp6421/
 
